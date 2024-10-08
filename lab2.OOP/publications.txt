@@ -1,0 +1,15 @@
+C++ Programming
+29.99
+30
+Data Structures and Algorithms
+39.99
+45
+Design Patterns
+49.99
+60
+Artificial Intelligence
+59.99
+90
+Web Development
+19.99
+30
